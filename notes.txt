@@ -1,0 +1,4 @@
+create project command:
+ng new ng5 --style=scss --routing
+--style = style sheet type
+--routing = enable angualr to autosetup routing

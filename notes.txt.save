@@ -1,0 +1,16 @@
+1.create project command:
+ng new ng5 --style=scss --routing
+--style = style sheet type
+--routing = enable angualr to autosetup routing
+
+
+2. cd into project 
+cd ng5
+
+3. init project
+ng server
+
+4. generate new compnents
+ng generate compnent <name>
+
+short hand: ng g c <name> 
